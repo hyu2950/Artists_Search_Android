@@ -19,16 +19,16 @@
 
 **Home Screen**
 
-![Screen Shot 2022-07-01 at 3.59.16 PM](./extra/Screen Shot 2022-07-01 at 3.59.16 PM.png)
+![Screen Shot 2022-07-01 at 3.59.16 PM](./extra/01.png)
 
 **Search Result Screen**
 
-![Screen Shot 2022-07-01 at 3.59.26 PM](./extra/Screen Shot 2022-07-01 at 3.59.26 PM.png)
+![Screen Shot 2022-07-01 at 3.59.26 PM](./extra/02.png)
 
 **Detail Artist Infomation Screen**
 
-![Screen Shot 2022-07-01 at 3.59.34 PM](./extra/Screen Shot 2022-07-01 at 3.59.34 PM.png)
+![Screen Shot 2022-07-01 at 3.59.34 PM](./extra/03.png)
 
 **Other Screens**
 
-![Screen Shot 2022-07-01 at 3.59.42 PM](./extra/Screen Shot 2022-07-01 at 3.59.42 PM.png)
+![Screen Shot 2022-07-01 at 3.59.42 PM](./extra/04.png)
