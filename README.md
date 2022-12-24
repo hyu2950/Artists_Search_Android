@@ -32,3 +32,13 @@
 **Other Screens**
 
 ![Screen Shot 2022-07-01 at 3.59.42 PM](./extra/04.png)
+
+## Backend
+
+- Used NodeJS for backend in this project
+
+- [ExpressJS](https://expressjs.com/) for quickly setting up routes
+
+- Host/Deploy the entire site to [Google App Engine](https://cloud.google.com/appengine)
+
+  
