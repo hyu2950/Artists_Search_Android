@@ -19,16 +19,16 @@
 
 **Home Screen**
 
-![Screen Shot 2022-07-01 at 3.59.16 PM](extra/Screen Shot 2022-07-01 at 3.59.16 PM.png)
+![Screen Shot 2022-07-01 at 3.59.16 PM](./extra/Screen Shot 2022-07-01 at 3.59.16 PM.png)
 
 **Search Result Screen**
 
-![Screen Shot 2022-07-01 at 3.59.26 PM](/Users/hanyiyu/Documents/code/git/Artists_Search_Android/extra/Screen Shot 2022-07-01 at 3.59.26 PM.png)
+![Screen Shot 2022-07-01 at 3.59.26 PM](./extra/Screen Shot 2022-07-01 at 3.59.26 PM.png)
 
 **Detail Artist Infomation Screen**
 
-![Screen Shot 2022-07-01 at 3.59.34 PM](/Users/hanyiyu/Documents/code/git/Artists_Search_Android/extra/Screen Shot 2022-07-01 at 3.59.34 PM.png)
+![Screen Shot 2022-07-01 at 3.59.34 PM](./extra/Screen Shot 2022-07-01 at 3.59.34 PM.png)
 
 **Other Screens**
 
-![Screen Shot 2022-07-01 at 3.59.42 PM](/Users/hanyiyu/Documents/code/git/Artists_Search_Android/extra/Screen Shot 2022-07-01 at 3.59.42 PM.png)
+![Screen Shot 2022-07-01 at 3.59.42 PM](./extra/Screen Shot 2022-07-01 at 3.59.42 PM.png)
