@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.ArtistInfo">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:animateLayoutChanges="false">
+
+            <TableRow
+                android:id="@+id/name_row"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:weightSum="3">
+
+                <TextView
+                    android:id="@+id/name_tag"
+                    style="@style/tag_style"
+                    android:text="Name" />
+
+                <TextView
+                    android:id="@+id/name_value"
+                    style="@style/value_style"
+                    android:text="Claude Monet" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/nationality_row"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:weightSum="3">
+
+                <TextView
+                    android:id="@+id/nationality_tag"
+                    style="@style/tag_style"
+                    android:text="Nationality" />
+
+                <TextView
+                    android:id="@+id/nationality_value"
+                    style="@style/value_style"
+                    android:text="France" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/birthday_row"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:weightSum="3">
+
+                <TextView
+                    android:id="@+id/birthday_tag"
+                    style="@style/tag_style"
+                    android:text="Birthday" />
+
+                <TextView
+                    android:id="@+id/birthday_value"
+                    style="@style/value_style"
+                    android:text="1840" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/deathday_row"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:weightSum="3">
+
+                <TextView
+                    android:id="@+id/deathday_tag"
+                    style="@style/tag_style"
+                    android:text="Deathday" />
+
+                <TextView
+                    android:id="@+id/deathday_value"
+                    style="@style/value_style"
+                    android:text="1926" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/biography_row"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:weightSum="3">
+
+                <TextView
+                    android:id="@+id/biography_tag"
+                    style="@style/tag_style"
+                    android:text="Biography" />
+
+                <TextView
+                    android:id="@+id/biography_value"
+                    style="@style/value_style"
+                    android:layout_width="180dp"
+                    android:text="Claude Monet" />
+            </TableRow>
+
+        </TableLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

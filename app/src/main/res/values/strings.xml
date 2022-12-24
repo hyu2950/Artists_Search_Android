@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArtistSearch</string>
+    <string name="title_activity_artist_detail_tab">ArtistDetail_tab</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
